@@ -1,1 +1,30 @@
 
+{
+    "name": "humanized/yii2-seo-page",
+    "type": "yii2-extension",
+    "description": "Yii2 module providing several seo-optimised database driven page abstraction",
+    "keywords": ["yii2", "user", "admin", "gui","seo"],
+    "license": "GPL-3.0",
+    "version": "0.1",
+    "support": {
+        "issues": "https://github.com/humanized/yii2-seo-page/issues",
+        "forum": "http://www.yiiframework.com/forum/",
+        "wiki": "https://github.com/humanized/yii2-seo-page/wiki",
+        "irc": "irc://irc.freenode.net/yii",
+        "source": "https://github.com/humanized/yii2-seo-page"
+    },
+    "authors": [
+        {
+            "name": "Jeffrey Geyssens",
+            "email": "jeffrey@humanized.be"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "humanized\\seopage\\": ""
+        }
+    }
+}
