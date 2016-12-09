@@ -1,4 +1,5 @@
-# yii2-seo-page
+# Yii2 SEO Page
+A module providing some strategies for managing SEO-minded webpages using database storage
 
 ## Installation
 
